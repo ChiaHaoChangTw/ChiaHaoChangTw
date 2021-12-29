@@ -1,5 +1,5 @@
 # 👋, I am Chia-Hao Chang
-👨‍🎓 Computer Science @ University of Southern California <br> <br>
+👨‍🎓 Computer Science at University of Southern California <br> <br>
 💻 Love to learn new computer science technologies
 ## Languages and Skills
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
