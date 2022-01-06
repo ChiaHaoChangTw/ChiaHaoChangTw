@@ -10,3 +10,6 @@ Welcome to my page. I am a computer science student at University of Southern Ca
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 [icons]: (https://github.com/alexandresanlim/Badges4-README.md-Profile#readme)
+
+## Feel free to contact me
+✉️ cchang82@usc.edu <br>
