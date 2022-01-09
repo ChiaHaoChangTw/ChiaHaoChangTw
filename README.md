@@ -1,5 +1,6 @@
 # Hey, I am Chia-Hao Chang!
-Welcome to my page. I am a computer science student at University of Southern California. ✌️ <br>
+Welcome to my page - I am a computer science student at University of Southern California ✌️, and I am passionate about learning any kinds of software technologies 👨‍💻.
+<br>
 ## I love to code with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
@@ -8,24 +9,23 @@ Welcome to my page. I am a computer science student at University of Southern Ca
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 
 [icons]: (https://github.com/alexandresanlim/Badges4-README.md-Profile#readme)
 
 ## About my GitHub
-<a href="https://github.com/ChiaHaoChangTw">
-  <!--
-  <img height="250" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=gotham">
-  &nbsp;&nbsp;
-  -->
-  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=gotham">
+<a href="https://github.com/ChiaHaoChangTw?tab=repositories">
+  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=gotham">
+  &nbsp;&nbsp;&nbsp;
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=gotham">
 </a>
 
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
 
 ## Feel free to contact me
-<a href=cchang82@usc.edu>
-  <img height="50" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
+<a href=mailto:cchang82@usc.edu>
+  <img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
 </a>
 <a href="https://www.linkedin.com/in/chia-hao-chang">
-  <img height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
