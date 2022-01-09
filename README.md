@@ -13,12 +13,19 @@ Welcome to my page. I am a computer science student at University of Southern Ca
 
 ## About my GitHub
 <a href="https://github.com/ChiaHaoChangTw">
+  <!--
   <img height="250" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=gotham">
   &nbsp;&nbsp;
-  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=gotham">
+  -->
+  <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=gotham">
 </a>
 
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
 
 ## Feel free to contact me
-✉️ cchang82@usc.edu <br>
+<a href=cchang82@usc.edu>
+  <img height="50" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
+</a>
+<a href="https://www.linkedin.com/in/chia-hao-chang">
+  <img height="50" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
