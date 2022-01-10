@@ -24,8 +24,8 @@ Welcome to my page - I am a computer science student at University of Southern C
 
 ## Feel free to contact me
 <a href=mailto:cchang82@usc.edu>
-  <img height="40" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
+  <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
 </a>
 <a href="https://www.linkedin.com/in/chia-hao-chang">
-  <img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  <img height="35" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
