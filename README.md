@@ -15,9 +15,9 @@ Welcome to my page - I am a computer science student at University of Southern C
 
 ## About my GitHub
 <a href="https://github.com/ChiaHaoChangTw?tab=repositories">
-  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=gotham">
+  <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=swift">
   &nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=gotham">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=swift">
 </a>
 
 [GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
