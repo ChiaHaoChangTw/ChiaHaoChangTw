@@ -1,5 +1,5 @@
 # Hey, I am Chia-Hao Chang!
-Welcome to my page - I am a computer science student at University of Southern California ✌️, and I am passionate about learning any kinds of software technologies 👨‍💻. **I love coding!!!**
+Welcome to my page - I am a computer science student at University of Southern California ✌️, and I am passionate about learning any kinds of software technologies 👨‍💻. **I love coding!!!** Currently exploring the beauty of Rust lang 🦀.
 <br>
 ## I love to code with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
