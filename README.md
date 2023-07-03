@@ -22,8 +22,6 @@ Welcome to my page - I am a computer science student at University of Southern C
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=swift">
 </a>
 
-[GitHub stats]: (https://github.com/anuraghazra/github-readme-stats)
-
 ## Feel free to contact me
 <a href=mailto:cchang82@usc.edu>
   <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
