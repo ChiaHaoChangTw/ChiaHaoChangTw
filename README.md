@@ -4,8 +4,8 @@ Welcome to my page - I am a computer science student at University of Southern C
 ## I love to code with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)&nbsp;
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -18,8 +18,6 @@ Welcome to my page - I am a computer science student at University of Southern C
 ## About my GitHub
 <a href="https://github.com/ChiaHaoChangTw?tab=repositories">
   <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=swift">
-  &nbsp;&nbsp;&nbsp;
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ChiaHaoChangTw&theme=swift">
 </a>
 
 ## Feel free to contact me
