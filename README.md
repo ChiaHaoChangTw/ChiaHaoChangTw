@@ -1,5 +1,5 @@
 # Hi there, I am Hao
-I am a computer science student at University of Southern California ✌️, and I am passionate about learning all kinds of software technologies 👨‍💻. **I love coding!!!** 
+I am a software engineer at Amazon, a proud alumnus of USC ✌️, and I am deeply passionate about expanding my knowledge across various software technologies.
 
 ## I love to code with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
