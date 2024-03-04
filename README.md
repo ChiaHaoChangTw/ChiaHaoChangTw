@@ -1,7 +1,7 @@
 # Hi there, I am Hao
 I am a software engineer at Amazon, a proud alumnus of USC ✌️, and I am deeply passionate about expanding my knowledge across various software technologies.
 
-## I love to code with
+# I love to code with
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
@@ -15,12 +15,12 @@ I am a software engineer at Amazon, a proud alumnus of USC ✌️, and I am deep
 
 [icons]: (https://github.com/alexandresanlim/Badges4-README.md-Profile#readme)
 
-## About my GitHub
+# GitHub stats
 <a href="https://github.com/ChiaHaoChangTw?tab=repositories">
   <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=swift">
 </a>
 
-## Feel free to contact me
+# Feel free to contact me
 <a href=mailto:cchang82@usc.edu>
   <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
 </a>
