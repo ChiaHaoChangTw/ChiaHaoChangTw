@@ -20,7 +20,7 @@ I am a software engineer at Amazon, a proud alumnus of USC ✌️, and I am deep
   <img height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiaHaoChangTw&theme=swift">
 </a>
 
-# Feel free to contact me
+# Let's connect
 <a href=mailto:cchang82@usc.edu>
   <img height="35" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-1.png"/>
 </a>
