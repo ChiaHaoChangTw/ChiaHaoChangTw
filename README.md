@@ -14,6 +14,8 @@
 
 * I was previously a chemical engineering researcher focusing on metal organic frameworks (MOF) areas.
 
-* My selected papers can be found in Google Scholar [here](https://scholar.google.com/citations?user=ROAi5GkAAAAJ&hl=en).
+  * My selected papers can be found in Google Scholar [here](https://scholar.google.com/citations?user=ROAi5GkAAAAJ&hl=en).
 
-* I am interested in how AI with software can play a role in developing new MOF strutures and applications!
+  * I am interested in how AI with software can play a role in developing new MOF strutures and applications!
+
+* My favorite programming language is C++ which was my first (self-learned) programming language.
